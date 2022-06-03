@@ -4,7 +4,8 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - websocket-client  
+  - websocket-client
+  - requests
   # uncomment following to install jupyter notebook
   # - ipywidgets
   # - nb_conda_kernels
